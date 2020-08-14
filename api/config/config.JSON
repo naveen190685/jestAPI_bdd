@@ -1,0 +1,4 @@
+{
+    "environment": "dev",
+    "baseURL": "http://www.google.com"
+}
